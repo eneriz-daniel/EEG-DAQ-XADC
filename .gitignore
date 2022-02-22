@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+Dataset/
+normalized/
+processed/
+EEG_1Canal.py
+EEG64MUX.py
+functionsEEGNico.py
+pruebas.ipynb
